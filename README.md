@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakhar Kauhshik</h1>
+<h1 align="center">Hi 👋, I'm Prakhar Kaushik</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
 
